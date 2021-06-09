@@ -1,0 +1,64 @@
+img{
+    
+    height: 700px;
+    width: 1200px; 
+    margin: auto;
+    display: block;
+    border: 5px solid black;
+}
+.bg{
+    background-color: rgb(221, 190, 152);
+}
+.description{
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+}
+.contact{
+    font-family: 'Montserrat', sans-serif; 
+    border: 3px solid black;
+    background-color: rgb(155, 153, 153);
+}
+#email{
+    margin-left: 0;
+    border-radius: 9px;
+    height: 50px;
+     width: 50px;
+     
+     font-size:  medium;
+}
+#phone{
+    margin-left: 0;
+    border-radius: 9px;
+    height: 50px;
+     width: 50px;
+     
+     font-size: medium;
+}
+#address{
+    margin-left: 0;
+    border-radius: 9px;
+    height: 50px;
+     width: 50px;
+     
+     font-size:  medium;
+}
+.aim{
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size:  medium;
+}
+#infocontact{
+    text-align: center;
+}
+.meinfo{
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+}
+.donate{
+    font-size: medium;
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+}
+ 
